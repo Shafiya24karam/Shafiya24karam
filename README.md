@@ -30,7 +30,7 @@ Frameworks: Django.
 
 Databases: MySQL, Oracle. 
 
-Platforms: Google Colab, Android Studio, Git.
+Platforms: Google Colab, Android Studio, Git, Docker, Microsoft Azure.
 
 **• 🌟 Let's Connect & Collaborate!**
 
