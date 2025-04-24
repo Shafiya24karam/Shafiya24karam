@@ -1,4 +1,4 @@
-👋 Hello! I'm Shafiya Karam. Welcome to my GitHub profile!
+**👋 Hello! I'm Shafiya Karam. Welcome to my GitHub profile!**
 
 I’m an enthusiastic software engineer with a keen interest in full stack web development. My passion lies in transforming creative ideas into functional and impactful applications that enhance user experiences.
 
